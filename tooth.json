@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/tooth-hub/better-suicide",
-    "version": "0.1.1",
+    "version": "0.3.0",
     "info": {
         "name": "better-suicide",
         "description": "Allow players to suicide in Minecraft.",
@@ -13,7 +13,7 @@
         ]
     },
     "dependencies": {
-        "github.com/tooth-hub/levilamina": "0.2.x"
+        "github.com/tooth-hub/levilamina": "0.3.x"
     },
     "files": {
         "place": [

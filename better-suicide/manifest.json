@@ -1,4 +1,5 @@
 {
     "name": "better-suicide",
-    "entry": "better-suicide.dll"
+    "entry": "better-suicide.dll",
+    "type": "native"
 }
